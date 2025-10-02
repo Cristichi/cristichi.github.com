@@ -1,4 +1,12 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Cristichi, Playing with Fire added.
+Lost in the Feywilds added.
+
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
