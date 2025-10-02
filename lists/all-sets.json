@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "CCC",
+            "set_name": "Cristichi Custom Cards",
+            "formats": "Commander"
+        },
+        {
             "set_code": "LPDS",
             "set_name": "Legendary Purple Dragons \u2014 Spyro",
             "formats": "Commander"

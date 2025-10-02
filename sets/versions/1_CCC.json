@@ -1,7 +1,7 @@
 ﻿{
     "name": "Cristichi Custom Cards",
     "formats": "Commander",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "jpg",
     "draft_structure": "play booster",
     "unpreviewed": "card back",
@@ -88,6 +88,5 @@
             "position": "3",
             "notes": ""
         }
-    ],
-    "version": 1
+    ]
 }
