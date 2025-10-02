@@ -1,4 +1,20 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+Cristichi, Playing with Fire removed.
+Lost in the Feywilds removed.
+
+
+VERSION 3 CHANGELOG
+====================
+
+
+
+Cristichi, Playing with Fire
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Cristichi, Playing with Fire added.

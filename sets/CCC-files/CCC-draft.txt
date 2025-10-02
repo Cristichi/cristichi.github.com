@@ -15,7 +15,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Enchantment — Background",
-			"collector_number": "4",
+			"collector_number": "3",
 			"image_uris": {
 				"en": "https://cristichi.github.com/sets/CCC-files/img/1.jpg"
 			}
@@ -39,46 +39,20 @@
 			"image_uris": {
 				"en": "https://cristichi.github.com/sets/CCC-files/img/3.jpg"
 			}
-		},
-		{
-			"name": "Cristichi, Playing with Fire",
-			"rarity": "mythic",
-			"mana_cost": "{2}{R}{R}",
-			"type": "Legendary Creature — Dragon Sorcerer",
-			"collector_number": "3",
-			"image_uris": {
-				"en": "https://cristichi.github.com/sets/CCC-files/img/4.jpg"
-			}
-		},
-		{
-			"name": "Lost in the Feywilds",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
-			"type": "Legendary Enchantment — Background",
-			"collector_number": "5",
-			"image_uris": {
-				"en": "https://cristichi.github.com/sets/CCC-files/img/5.jpg"
-			}
 		}
 	]
 
 [rare(1)]
 	1 Cristichi, Playing with Fire
-	1 Cristichi, Playing with Fire
 [uncommon(3)]
 	4 Lost in the Feywilds
 	4 Power in Madness
-	4 Lost in the Feywilds
 [common(7)]
 [foil(1)]
 	1 Cristichi, Playing with Fire
 	6 Lost in the Feywilds
 	6 Power in Madness
-	1 Cristichi, Playing with Fire
-	6 Lost in the Feywilds
 [wildcard(1)]
 	4 Cristichi, Playing with Fire
 	15 Lost in the Feywilds
 	15 Power in Madness
-	4 Cristichi, Playing with Fire
-	15 Lost in the Feywilds
