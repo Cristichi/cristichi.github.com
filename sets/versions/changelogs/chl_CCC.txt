@@ -1,4 +1,26 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Cristichi, Playing with Fire
+rules_text: Whenever Cristichi is dealt damage or you roll one or more dice, create a 2/3 red Fire Incarnate dragon creature token with reach and “When this creature deals damage, sacrifice it.”
+Choose a background [i](You can have a Background as a second commander.)[/i] => Whenever Cristichi is dealt damage and whenever you roll one or more dice, create a 2/3 red Fire Incarnate dragon creature token with reach and “When this creature deals damage, sacrifice it.”
+Choose a Background [i](You can have a Background as a second commander.)[/i]
+
+Lost in the Feywilds
+rules_text: Commander creatures you own have
+“{1}{G}, {T}: Each player rolls a d20.
+[b]1-9 |[/b] Investigate.
+[b]10-19 [/b]| Draw a card.
+[b]20 [/b]| Draw two cards.” => Commander creatures you own have
+“{1}{G}, {T}: Each player rolls a d20.
+[b]1-9 |[/b] That player investigates.
+[b]10-19 [/b]| That player draws a card.
+[b]20 [/b]| That player draws two cards.”
+
+
+VERSION 2 CHANGELOG
 ====================
 
 No changes.
