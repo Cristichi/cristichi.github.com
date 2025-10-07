@@ -3,7 +3,7 @@
     "formats": "Commander",
     "trimmed": "y",
     "image_type": "jpg",
-    "draft_structure": "play booster",
+    "draft_structure": "none",
     "unpreviewed": "card back",
     "image_name": "position",
     "v_mana": "",
@@ -1931,5 +1931,5 @@
             "notes": ""
         }
     ],
-    "version": 2
+    "version": 1
 }

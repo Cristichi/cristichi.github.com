@@ -1,4 +1,9 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+No changes.
+
+VERSION 5 CHANGELOG
 ====================
 
 Cristichi, Hired Adventurer added.
