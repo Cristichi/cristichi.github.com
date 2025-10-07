@@ -13,7 +13,7 @@
             "color": "R",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Dragon Sorcerer",
-            "number": 2,
+            "number": 3,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
             "rules_text": "Whenever Cristichi is dealt damage or you roll one or more dice, create a 4/3 red Fire Incarnate dragon creature token with reach and \u201cWhen this creature deals damage, sacrifice it.\u201d\nChoose a background [i](You can have a Background as a second commander.)[/i]",
@@ -23,7 +23,7 @@
             "shape": "normal",
             "set": "CCC",
             "loyalty": "",
-            "artist": "OpenAI",
+            "artist": "Larian Studios",
             "alias": "",
             "position": "0",
             "notes": ""
@@ -33,7 +33,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Legendary Enchantment \u2014 Background",
-            "number": 3,
+            "number": 4,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Commander creatures you own have\n\u201c{1}{G}, {T}: Each player rolls a d20.\n[b]1-9 |[/b] Investigate.\n[b]10-19 [/b]| Draw a card.\n[b]20 [/b]| Draw two cards.\u201d",
@@ -87,7 +87,27 @@
             "alias": "",
             "position": "3",
             "notes": ""
+        },
+        {
+            "card_name": "Cristichi, Hired Adventurer",
+            "color": "R",
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2014 Dragon Sorcerer",
+            "number": 2,
+            "color_identity": "R",
+            "cost": "{2}{R}{R}",
+            "rules_text": "Whenever Cristichi you roll one or more dice, you may draw cards equal to the number of instant and sorcery cards in your graveyard. If you do, discard two cards.\nChoose a background [i](You can have a Background as a second commander.)[/i]",
+            "flavor_text": "[i]\u201cI didn't ask who is in the room, I said I CAST FIREBALL.\u201d[/i]",
+            "pt": "3/4",
+            "special_text": "",
+            "shape": "normal",
+            "set": "CCC",
+            "loyalty": "",
+            "artist": "Larian Studios",
+            "alias": "",
+            "position": "4",
+            "notes": ""
         }
     ],
-    "version": 4
+    "version": 5
 }

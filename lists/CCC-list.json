@@ -13,18 +13,37 @@
         "card_name": "e"
     },
     {
-        "card_name": "Cristichi, Playing with Fire",
+        "card_name": "Cristichi, Hired Adventurer",
         "number": 2,
+        "shape": "normal",
+        "set": "CCC",
+        "position": "4"
+    },
+    {
+        "card_name": "Lost in the Feywilds",
+        "number": 4,
+        "shape": "normal",
+        "set": "CCC",
+        "position": "1"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Cristichi, Playing with Fire",
+        "number": 3,
         "shape": "normal",
         "set": "CCC",
         "position": "0"
     },
     {
-        "card_name": "Lost in the Feywilds",
-        "number": 3,
-        "shape": "normal",
-        "set": "CCC",
-        "position": "1"
+        "card_name": "e"
     },
     {
         "card_name": "er"

@@ -1,4 +1,15 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Hunter of Avalar
+rules_text: When Hunter enters, you may behold a Dragon. If you do, draw a card.
+Warp {2}{W} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => When Hunter enters, you may behold a Dragon. If you do, draw a card.
+Warp {2}{W} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
