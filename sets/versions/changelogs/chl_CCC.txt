@@ -1,4 +1,18 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Cristichi, Playing with Fire
+rules_text: Whenever Cristichi is dealt damage and whenever you roll one or more dice, create a 2/3 red Fire Incarnate dragon creature token with reach and “When this creature deals damage, sacrifice it.”
+Choose a Background [i](You can have a Background as a second commander.)[/i] => Whenever Cristichi is dealt damage and whenever you roll one or more dice, create a 4/3 red Fire Incarnate dragon creature token with reach and “When this creature deals damage, sacrifice it.”
+Choose a Background [i](You can have a Background as a second commander.)[/i]
+
+Fire Incarnate
+pt: 2/3 => 4/3
+
+
+VERSION 3 CHANGELOG
 ====================
 
 
