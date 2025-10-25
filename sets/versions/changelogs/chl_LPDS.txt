@@ -1,4 +1,203 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Time Crystal added.
+
+Dragonstorm Globe removed.
+
+Spyro, the Purple Dragon
+rules_text: Partner with Cynder, Awoken from Darkness [i](When this creature enters, target player may put Cynder into their hand from their library, then shuffle.)[/i]
+Flying
+Whenever Spyro enters or attacks, you may pay {1}{W}. When you do, put a shield counter on another target Dragon you control. => Partner with Cynder, Awoken from Darkness
+Flying
+Whenever Spyro enters or attacks, you may pay {1}{W}. When you do, put a shield counter on another target Dragon you control.
+
+Catacombs' Arena
+rules_text: {T}: Add {C}.
+{4}, {T}: Target untapped creature you control and target creature an opponent controls fight. [i](Each deals damage equal to its power to the other.)[/i] => {T}: Add {C}.
+{4}, {T}: Target untapped creature you control and target creature an opponent controls fight.
+
+Sparx
+rules_text: Flash
+Flying
+{2}{W}, Return Sparx to your hand: Regenerate target Dragon. [i](The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)[/i] => Flash
+Flying
+{2}{W}, Return Sparx to your hand: Regenerate target Dragon.
+
+The Chronicler
+rules_text: Flying
+At the beginning of your end step, The Chronicler phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i] => Flying
+At the beginning of your end step, The Chronicler phases out.
+
+Hunter of Avalar
+rules_text: When Hunter enters, you may behold a Dragon. If you do, draw a card.
+Warp {2}{W} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => When Hunter enters, you may behold a Dragon. If you do, draw a card.
+Warp {2}{W} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+Elemental Prowess
+rules_text: [i]Domain[/i] — At the beginning of combat on your turn, target Dragon you control gains +X/+X, where X is the number of basic land types among lands you control. => Domain — At the beginning of combat on your turn, target Dragon you control gains +X/+X, where X is the number of basic land types among lands you control.
+
+Meadow, Lost and Found
+rules_text: Cycling {GW} [i]({GW}, Discard this card: Draw a card.)[/i] => Cycling G/W
+
+Warfang
+rules_text: Warfang enters tapped.
+When Warfang enters the battlefield, sacrifice it unless you behold a Mole.
+{T}: Add one mana of any color in your commander's identity.
+Cycling {2} => Warfang enters tapped.
+When Warfang enters the battlefield, sacrifice it unless you behold a Mole.
+{T}: Add one mana of any color in your commander's identity.
+Cycling 2
+
+
+Chief Prowlus
+rules_text: Champion a Dragon or Cat [i](When this creature enters, sacrifice it unless you exile another Dragon or Cat you control. When this creature leaves the battlefield, that card returns to the battlefield.)[/i]
+Vigilance => Champion a Dragon or Cat
+Vigilance
+
+Broodmate Tyrant
+rules_text: Flying
+When this creature enters, create a 5/5 red Dragon creature token with flying.
+Encore {5}{B}{R}{G} => Flying
+When this creature enters, create a 5/5 red Dragon creature token with flying.
+Encore 5BRG
+
+Encroaching Dragonstorm
+
+Farhaven Elf
+
+Haven of the Spirit Dragon
+
+Hraesvelgr of the First Brood
+rules_text: Flying, vigilance, ward {2}
+[i]Shiva's Aid [/i]— When Hraesvelgr enters and whenever you cast a noncreature spell, target creature gets +1/+0 until end of turn and can't be blocked this turn. => Flying, vigilance, ward 2
+[i]Shiva's Aid [/i]— When Hraesvelgr enters and whenever you cast a noncreature spell, target creature gets +1/+0 until end of turn and can't be blocked this turn.
+
+Indatha Triome
+rules_text: [i]({T}: Add {W}, {B}, or {G}.)[/i]
+This land enters tapped.
+Cycling {3} => [i]({T}: Add {W}, {B}, or {G}.)[/i]
+This land enters tapped.
+Cycling 3
+
+Jetmir's Garden
+rules_text: [i]({T}: Add {R}, {G}, or {W}.)[/i]
+This land enters tapped.
+Cycling {3} => [i]({T}: Add {R}, {G}, or {W}.)[/i]
+This land enters tapped.
+Cycling 3
+
+Karrthus, Tyrant of Jund
+
+Ketria Triome
+rules_text: [i]({T}: Add {G}, {U}, or {R}.)[/i]
+This land enters tapped.
+Cycling {3} => [i]({T}: Add {G}, {U}, or {R}.)[/i]
+This land enters tapped.
+Cycling 3
+
+Kheru Goldkeeper
+rules_text: Flying
+Whenever one or more cards leave your graveyard during your turn, create a Treasure token.
+[i]Renew[/i] — {2}{B}{G}{U}, Exile this card from your graveyard: Put two +1/+1 counters and a flying counter on target creature. Activate only as a sorcery. => Flying
+Whenever one or more cards leave your graveyard during your turn, create a Treasure token.
+Renew — {2}{B}{G}{U}, Exile this card from your graveyard: Put two +1/+1 counters and a flying counter on target creature. Activate only as a sorcery.
+
+Kodama's Reach
+
+Kyodai, Soul of Kamigawa
+
+Lathliss, Dragon Queen
+
+Maelstrom of the Spirit Dragon
+
+Myriad Landscape
+
+Nogi, Draco-Zealot
+
+Path of Ancestry
+
+Path to the Festival
+rules_text: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle. Then if there are three or more basic land types among lands you control, scry 1.
+Flashback {4}{G} => Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle. Then if there are three or more basic land types among lands you control, scry 1.
+Flashback 4G
+
+Patron of the Arts
+
+Purging Stormbrood
+
+Rampant Growth
+
+Rapacious Dragon
+
+Raugrin Triome
+rules_text: [i]({T}: Add {U}, {R}, or {W}.)[/i]
+This land enters tapped.
+Cycling {3} => [i]({T}: Add {U}, {R}, or {W}.)[/i]
+This land enters tapped.
+Cycling 3
+
+Riverpyre Verge
+
+Sakura-Tribe Elder
+
+Sarkhan, Soul Aflame
+
+Scaled Nurturer
+
+Search for Tomorrow
+rules_text: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+Suspend 2—{G} [i](Rather than cast this card from your hand, you may pay {G} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i] => Search your library for a basic land card, put it onto the battlefield, then shuffle.
+Suspend 2—G
+
+Slimefoot's Survey
+rules_text: [i]Domain[/i] — Search your library for up to two land cards that each have a basic land type, put them onto the battlefield tapped, then shuffle. Look at the top X cards of your library, where X is the number of basic land types among lands you control. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. => Domain — Search your library for up to two land cards that each have a basic land type, put them onto the battlefield tapped, then shuffle. Look at the top X cards of your library, where X is the number of basic land types among lands you control. Put up to one of them on top of your library and the rest on the bottom of your library in a random order.
+
+Spara's Headquarters
+rules_text: [i]({T}: Add {G}, {W}, or {U}.)[/i]
+This land enters tapped.
+Cycling {3} => [i]({T}: Add {G}, {W}, or {U}.)[/i]
+This land enters tapped.
+Cycling 3
+
+Spire Garden
+
+Wayfarer's Bauble
+
+Sunbillow Verge
+
+Taurean Mauler
+rules_text: Changeling [i](This card is every creature type.)[/i]
+Whenever an opponent casts a spell, you may put a +1/+1 counter on this creature. => Changeling
+Whenever an opponent casts a spell, you may put a +1/+1 counter on this creature.
+
+Temple Garden
+
+Temple of the Dragon Queen
+
+Tiamat
+
+Undergrowth Stadium
+
+Vengeful Ancestor
+
+Korlessa, Scale Singer
+
+Wastewood Verge
+
+Windswept Heath
+
+Zagoth Triome
+rules_text: [i]({T}: Add {B}, {G}, or {U}.)[/i]
+This land enters tapped.
+Cycling {3} => [i]({T}: Add {B}, {G}, or {U}.)[/i]
+This land enters tapped.
+Cycling 3
+
+Willowrush Verge
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
